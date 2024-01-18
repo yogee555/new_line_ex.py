@@ -1,0 +1,8 @@
+print("print 1 for addition")
+print("print 2 for subtraction")
+print("print 3 for multiplication")
+print("print 4 for division")
+print("====================")
+choice = int(input("enter your choice\n"))
+num1 = int(input("enter your 1st number\n"))
+num2 = int(input("enter your 2nd number\n"))
